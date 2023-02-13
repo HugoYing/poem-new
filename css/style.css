@@ -1,0 +1,29 @@
+
+
+body{
+font-family: fantasy, serif;
+margin:80px;
+}
+
+h1{
+  font-family: fantasy;
+  font-size: 80px;
+  text-align: center;
+  
+}
+
+p{
+font-size: 25px;
+text-align: center;
+margin-top:15px;
+}
+
+a{
+  color:blueviolet;
+}
+
+a:hover{
+  border-bottom: 1px solid;
+  background: #cdfeaa;
+  color:darkgreen;
+}
